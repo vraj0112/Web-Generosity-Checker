@@ -1,0 +1,14 @@
+
+Scan Id = 82595f98a3ff9208b852b2d607df09ec1f2e5fb80d4f4d6b2379dc4c9cfe0136-1618850589
+Scan Date = 2021-04-19 16:43:09
+Site Url = https://www.charusat.ac.in is Not Malicious.
+
+Scan Id = edb7ec8f276907d10b981ab5004dfff9a3f2a8721c3ac66231f05ed676de1ac8-1569259276
+Scan Date = 2019-09-23 17:21:16
+Site Url = https://pattxrn0913.shortcm.li/nFb0Jg is Malicious.
+Reported by : Kaspersky    CyRadar    Sophos    Netcraft    Fortinet    
+
+IP Address = 192.169.69.25 is Malicious.
+Reported by : Comodo Valkyrie Verdict    Forcepoint ThreatSeeker    AegisLab WebGuard    CyRadar    Dr.Web    Sophos    ESET    Fortinet    alphaMountain.ai    
+
+IP Address = 127.0.0.1 is not Malicious.
