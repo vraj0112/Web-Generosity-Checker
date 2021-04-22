@@ -6,7 +6,9 @@ from bs4 import BeautifulSoup
 # url_scan = "https://pattxrn0913.shortcm.li/nFb0Jg"
 # url_scan = "https://www.charusat.ac.in"
 # url_scan = "https://www.csm-testcenter.org/download/malicious/index.html"
-api_key = "7371980d0b47237db8eb070b79c0a196acc50afbd22617e7c711047187af135d"
+
+# api_key = "7371980d0b47237db8eb070b79c0a196acc50afbd22617e7" This Api key is not correct it is for example only.
+  api_key = "" #Enter your own Virus Total Api Key here inside double quotes how to get the key is mentioned in readme.md file
 
 def UrlScanning(url_scan):
   url_api="https://www.virustotal.com/vtapi/v2/url/report"
